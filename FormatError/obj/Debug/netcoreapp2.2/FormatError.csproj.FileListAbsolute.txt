@@ -1,0 +1,11 @@
+C:\DATA\WorkNote\Document Study\Project\FormatError\FormatError\obj\Debug\netcoreapp2.2\FormatError.csprojAssemblyReference.cache
+C:\DATA\WorkNote\Document Study\Project\FormatError\FormatError\obj\Debug\netcoreapp2.2\FormatError.csproj.CoreCompileInputs.cache
+C:\DATA\WorkNote\Document Study\Project\FormatError\FormatError\obj\Debug\netcoreapp2.2\FormatError.AssemblyInfoInputs.cache
+C:\DATA\WorkNote\Document Study\Project\FormatError\FormatError\obj\Debug\netcoreapp2.2\FormatError.AssemblyInfo.cs
+C:\DATA\WorkNote\Document Study\Project\FormatError\FormatError\bin\Debug\netcoreapp2.2\FormatError.deps.json
+C:\DATA\WorkNote\Document Study\Project\FormatError\FormatError\bin\Debug\netcoreapp2.2\FormatError.runtimeconfig.json
+C:\DATA\WorkNote\Document Study\Project\FormatError\FormatError\bin\Debug\netcoreapp2.2\FormatError.runtimeconfig.dev.json
+C:\DATA\WorkNote\Document Study\Project\FormatError\FormatError\bin\Debug\netcoreapp2.2\FormatError.dll
+C:\DATA\WorkNote\Document Study\Project\FormatError\FormatError\bin\Debug\netcoreapp2.2\FormatError.pdb
+C:\DATA\WorkNote\Document Study\Project\FormatError\FormatError\obj\Debug\netcoreapp2.2\FormatError.dll
+C:\DATA\WorkNote\Document Study\Project\FormatError\FormatError\obj\Debug\netcoreapp2.2\FormatError.pdb
